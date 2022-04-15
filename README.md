@@ -1,2 +1,2 @@
 # carlo-monte
-Visual representation of various Monte Carlo methods.
+> Visual representation of various Monte Carlo methods.
